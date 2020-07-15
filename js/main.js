@@ -1,6 +1,6 @@
 $(function(){
 $(".premium-modal__close").click(function() {
-$(".premium-modal").hide();
+$(".premium-modal__wrapper").hide();
 
 });
 
